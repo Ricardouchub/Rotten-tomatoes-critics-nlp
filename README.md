@@ -15,10 +15,10 @@ Un análisis de datos de más de un millón de reseñas de cine para construir u
 ## **Índice**
 1. [Descripción del Proyecto](#1-descripción-del-proyecto)
 2. [Dataset](#2-dataset)
-3. [Análisis Exploratorio y Pipeline](#3-análisis-exploratorio-y-pipeline-de-datos)
+3. [Análisis Exploratorio](#3-análisis-exploratorio)
 4. [Modelado y Evaluación](#4-modelado-y-evaluación)
 5. [Hallazgos y Conclusiones Principales](#5-hallazgos-y-conclusiones-principales)
-6. [Herramientas Utilizadas](#6-herramientas-utilizadas)
+6. [Herramientas](#6-herramientas)
 7. [Instalación y Uso](#7-instalación-y-uso)
 8. [Autor](#8-autor)
 
@@ -65,7 +65,7 @@ Se entrenaron y compararon dos modelos de clasificación para encontrar el de me
 Tras la evaluación, se llegó a una de las primeras conclusiones interesantes del proyecto: el modelo de **Regresión Logística superó al más complejo LightGBM**, alcanzando una **precisión global del 80.67%**. Este modelo fue seleccionado para todos los análisis posteriores debido a su superior rendimiento y facilidad de interpretación.
 
 <p align="center">
-  <img src="https://URL_DE_TU_MATRIZ_DE_CONFUSION.png" alt="Matriz de Confusión del Modelo Ganador" width="500"/>
+  <img width="522" height="422" alt="image" src="https://github.com/user-attachments/assets/e4d68afc-5ac6-4b19-939e-ba317f70def2" />
 </p>
 
 ---
