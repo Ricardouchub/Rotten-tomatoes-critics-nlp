@@ -44,7 +44,7 @@ Debido al tamaño de los archivos, se gestionan mediante **Git LFS**.
 
 ---
 
-## **3. Análisis Exploratorio y Pipeline de Datos**
+## **3. Análisis Exploratorio**
 Antes del modelado, se realizó un exhaustivo proceso de limpieza y preparación:
 
 * **Análisis Exploratorio (EDA):** Se investigó la distribución de las reseñas, la cantidad de datos nulos y las características generales del texto.
