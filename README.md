@@ -1,4 +1,4 @@
-# **Descifrando a los Críticos: Un Análisis Profundo de Rotten Tomatoes**
+# **Análisis de Reseñas de Rotten Tomatoes con NLP**
 
 <p align="center">
   <img src="https://URL_DE_TU_IMAGEN_O_BANNER_AQUI" alt="Banner del Proyecto" width="800"/>
