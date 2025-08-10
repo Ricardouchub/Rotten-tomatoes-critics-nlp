@@ -1,7 +1,5 @@
-# **Análisis de Reseñas de Rotten Tomatoes con NLP**
-
 <p align="center">
-  <img src="https://URL_DE_TU_IMAGEN_O_BANNER_AQUI" alt="Banner del Proyecto" width="800"/>
+  <img width="445" height="203" alt="image" src="https://github.com/user-attachments/assets/51feace9-2375-435e-a95a-695bb33f0a52" />
 </p>
 
 <p align="center">
