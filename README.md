@@ -112,5 +112,5 @@ Para replicar este análisis, sigue estos pasos:
 ---
 
 ## **8. Autor**
-* **Ricardo Urdaneta**
-* [**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro/)
+**Ricardo Urdaneta**
+[**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro/)
