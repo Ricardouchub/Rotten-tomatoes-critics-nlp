@@ -82,7 +82,7 @@ El análisis profundo de los datos y del modelo entrenado reveló varios hallazg
 
 ---
 
-## **6. Herramientas Utilizadas**
+## **6. Herramientas**
 * **Lenguaje:** Python 3.9
 * **Librerías Principales:**
     * `Pandas` y `NumPy` para la manipulación de datos.
@@ -99,11 +99,11 @@ Para replicar este análisis, sigue estos pasos:
 
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+    git clone [https://github.com/Ricardouchub/rotten-tomatoes-critics-nlp.git](https://github.com/Ricardouchub/rotten-tomatoes-critics-nlp.git)
     ```
 2.  Navega a la carpeta del proyecto:
     ```bash
-    cd TU_REPOSITORIO
+    cd rotten-tomatoes-critics-nlp
     ```
 3.  Instala las dependencias (asegúrate de que Git LFS esté instalado si quieres descargar los archivos pesados directamente):
     ```bash
