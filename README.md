@@ -114,4 +114,13 @@ Para replicar este análisis, sigue estos pasos:
 ## **8. Autor**
 **Ricardo Urdaneta**
 
+---
+
 [**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro/)
+
+## **Visualizaciones destacadas**
+<p align="center">
+<img width="573" height="586" alt="image" src="https://github.com/user-attachments/assets/458528f3-113c-488f-b89f-3898f894584b" />
+  <img width="683" height="415" alt="image" src="https://github.com/user-attachments/assets/513c8cc2-d1aa-4d91-a852-a0cfd7a41c38" />
+
+</p>
