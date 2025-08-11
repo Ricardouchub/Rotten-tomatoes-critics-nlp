@@ -2,10 +2,13 @@
   <img width="445" height="203" alt="image" src="https://github.com/user-attachments/assets/51feace9-2375-435e-a95a-695bb33f0a52" />
 </p>
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-%233776AB?logo=python">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg">
-  <img alt="Kaggle" src="https://img.shields.io/badge/Dataset-Kaggle-blue.svg">
+<p align="left">
+  <img src="https://img.shields.io/badge/Proyecto_Completado-%E2%9C%94-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" alt="Proyecto Completado"/>
+  <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-Análisis_de_Datos-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-Modelo_ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/NLTK-Natural_Language_Toolkit-5C2D91?style=flat-square&logo=nltk&logoColor=white" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/WordCloud-Visualización_de_Nubes-3AA0E6?style=flat-square&logo=wordcloud&logoColor=white" alt="WordCloud"/>
 </p>
 
 Un análisis de datos de más de un millón de reseñas de cine para construir un modelo de predicción de sentimiento y descubrir los patrones ocultos en el lenguaje de la crítica.
@@ -33,24 +36,22 @@ El objetivo de este proyecto es explorar el vasto mundo de la crítica cinematog
 ---
 
 ## **2. Dataset**
-El proyecto utiliza el dataset **"Rotten Tomatoes Movies and Critic Reviews"** disponible públicamente en Kaggle. Contiene dos archivos principales:
+El proyecto utiliza el dataset **[Rotten Tomatoes Movies and Critic Reviews](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset)** disponible públicamente en Kaggle. Contiene dos archivos principales:
 
 * `rotten_tomatoes_movies.csv`: Información sobre las películas, incluyendo título, género, director, etc.
 * `rotten_tomatoes_critic_reviews.csv`: Más de 1.1 millones de reseñas individuales, con datos del crítico, la publicación, la fecha y el contenido de la crítica.
 
-Debido al tamaño de los archivos, se gestionan mediante **Git LFS**.
-
 ---
 
 ## **3. Análisis Exploratorio**
-Antes del modelado, se realizó un exhaustivo proceso de limpieza y preparación:
+Antes del modelado, se realizó un proceso de limpieza y preparación:
 
 * **Análisis Exploratorio (EDA):** Se investigó la distribución de las reseñas, la cantidad de datos nulos y las características generales del texto.
 * **Limpieza de Texto:** Se implementó un pipeline de NLP para estandarizar las reseñas, incluyendo:
     * Conversión a minúsculas.
     * Eliminación de puntuación y caracteres no alfabéticos.
     * Eliminación de *stopwords* (palabras comunes sin valor predictivo).
-    * **Lematización** para reducir las palabras a su forma raíz.
+    * Lematización para reducir las palabras a su forma raíz.
 * **Ingeniería de Características:** Se creó la variable objetivo `sentimiento` (1 para 'Fresh', 0 para 'Rotten') a partir de la columna `review_type`.
 
 ---
@@ -113,10 +114,9 @@ Para replicar este análisis, sigue estos pasos:
 
 ## **8. Autor**
 **Ricardo Urdaneta**
+[**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro/)
 
 ---
-
-[**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro/)
 
 ## **Visualizaciones destacadas**
 <p align="center">
