@@ -2,10 +2,13 @@
   <img width="445" height="203" alt="image" src="https://github.com/user-attachments/assets/51feace9-2375-435e-a95a-695bb33f0a52" />
 </p>
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-%233776AB?logo=python">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg">
-  <img alt="Kaggle" src="https://img.shields.io/badge/Dataset-Kaggle-blue.svg">
+<p align="left">
+  <img src="https://img.shields.io/badge/Proyecto_Completado-%E2%9C%94-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" alt="Proyecto Completado"/>
+  <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-Análisis_de_Datos-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-Modelo_ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/NLTK-Natural_Language_Toolkit-5C2D91?style=flat-square&logo=nltk&logoColor=white" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/WordCloud-Visualización_de_Nubes-3AA0E6?style=flat-square&logo=wordcloud&logoColor=white" alt="WordCloud"/>
 </p>
 
 Un análisis de datos de más de un millón de reseñas de cine para construir un modelo de predicción de sentimiento y descubrir los patrones ocultos en el lenguaje de la crítica.
