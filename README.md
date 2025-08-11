@@ -36,24 +36,22 @@ El objetivo de este proyecto es explorar el vasto mundo de la crítica cinematog
 ---
 
 ## **2. Dataset**
-El proyecto utiliza el dataset **"Rotten Tomatoes Movies and Critic Reviews"** disponible públicamente en Kaggle. Contiene dos archivos principales:
+El proyecto utiliza el dataset **[Rotten Tomatoes Movies and Critic Reviews](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset)** disponible públicamente en Kaggle. Contiene dos archivos principales:
 
 * `rotten_tomatoes_movies.csv`: Información sobre las películas, incluyendo título, género, director, etc.
 * `rotten_tomatoes_critic_reviews.csv`: Más de 1.1 millones de reseñas individuales, con datos del crítico, la publicación, la fecha y el contenido de la crítica.
 
-Debido al tamaño de los archivos, se gestionan mediante **Git LFS**.
-
 ---
 
 ## **3. Análisis Exploratorio**
-Antes del modelado, se realizó un exhaustivo proceso de limpieza y preparación:
+Antes del modelado, se realizó un proceso de limpieza y preparación:
 
 * **Análisis Exploratorio (EDA):** Se investigó la distribución de las reseñas, la cantidad de datos nulos y las características generales del texto.
 * **Limpieza de Texto:** Se implementó un pipeline de NLP para estandarizar las reseñas, incluyendo:
     * Conversión a minúsculas.
     * Eliminación de puntuación y caracteres no alfabéticos.
     * Eliminación de *stopwords* (palabras comunes sin valor predictivo).
-    * **Lematización** para reducir las palabras a su forma raíz.
+    * Lematización para reducir las palabras a su forma raíz.
 * **Ingeniería de Características:** Se creó la variable objetivo `sentimiento` (1 para 'Fresh', 0 para 'Rotten') a partir de la columna `review_type`.
 
 ---
@@ -116,10 +114,9 @@ Para replicar este análisis, sigue estos pasos:
 
 ## **8. Autor**
 **Ricardo Urdaneta**
+[**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro/)
 
 ---
-
-[**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro/)
 
 ## **Visualizaciones destacadas**
 <p align="center">
