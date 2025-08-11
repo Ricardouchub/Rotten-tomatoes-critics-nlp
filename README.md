@@ -13,6 +13,8 @@
 
 Un análisis de datos de más de un millón de reseñas de cine para construir un modelo de predicción de sentimiento y descubrir los patrones ocultos en el lenguaje de la crítica.
 
+### [Notebook](https://github.com/Ricardouchub/rotten-tomatoes-critics-nlp/blob/main/Notebook.ipynb)
+
 ---
 
 ## **Índice**
@@ -22,8 +24,7 @@ Un análisis de datos de más de un millón de reseñas de cine para construir u
 4. [Modelado y Evaluación](#4-modelado-y-evaluación)
 5. [Hallazgos y Conclusiones Principales](#5-hallazgos-y-conclusiones-principales)
 6. [Herramientas](#6-herramientas)
-7. [Instalación y Uso](#7-instalación-y-uso)
-8. [Autor](#8-autor)
+7. [Autor](#8-autor)
 
 ---
 
@@ -93,27 +94,9 @@ El análisis profundo de los datos y del modelo entrenado reveló varios hallazg
 
 ---
 
-## **7. Instalación y Uso**
-Para replicar este análisis, sigue estos pasos:
-
-1.  Clona el repositorio:
-    ```bash
-    git clone [https://github.com/Ricardouchub/rotten-tomatoes-critics-nlp.git](https://github.com/Ricardouchub/rotten-tomatoes-critics-nlp.git)
-    ```
-2.  Navega a la carpeta del proyecto:
-    ```bash
-    cd rotten-tomatoes-critics-nlp
-    ```
-3.  Instala las dependencias (asegúrate de que Git LFS esté instalado si quieres descargar los archivos pesados directamente):
-    ```bash
-    pip install -r requirements.txt
-    ```
-4.  Abre y ejecuta el notebook `Analisis_Rotten_Tomatoes.ipynb` en un entorno como Jupyter Lab o Google Colab.
-
----
-
-## **8. Autor**
+## **7. Autor**
 **Ricardo Urdaneta**
+
 [**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro/)
 
 ---
