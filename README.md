@@ -13,6 +13,8 @@
 
 Un análisis de datos de más de un millón de reseñas de cine para construir un modelo de predicción de sentimiento y descubrir los patrones ocultos en el lenguaje de la crítica.
 
+### [Notebook](https://github.com/Ricardouchub/rotten-tomatoes-critics-nlp/blob/main/Notebook.ipynb)
+
 ---
 
 ## **Índice**
