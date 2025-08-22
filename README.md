@@ -1,3 +1,15 @@
+Este es el primer repositorio de un proyecto de NLP en dos partes. Aquí nos centramos en el análisis exploratorio y el modelado clásico predictivo. Para ver el despliegle del modelo en una aplicación web interactiva, consulta la Parte 2.
+
+| Proyecto NLP | [Parte 1: Análisis Exploratorio y Predictivo](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp) | [Parte 2: Modelo Robusto Bilingüe y Despliegue](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp-2) |
+| :--- | :--- | :--- |
+| **Objetivo Principal** | **Análisis predictivo e investigativo sobre las críticas** | Construir y desplegar una aplicación funcional |
+| **Idioma** | **Inglés** | Bilingüe (EN/ES) |
+| **Modelo Clave** | **Logistic Regression** | XLM-RoBERTa |
+| **Producto Final** | **Análisis y hallazgos en un Notebook** | Aplicación Web Interactiva |
+| **Enfoque** | **Exploración y Modelado** | Producción y Aplicación  |
+
+---
+
 <p align="center">
   <img width="445" height="203" alt="image" src="https://github.com/user-attachments/assets/51feace9-2375-435e-a95a-695bb33f0a52" />
 </p>
