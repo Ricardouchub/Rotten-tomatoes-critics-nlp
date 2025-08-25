@@ -1,4 +1,4 @@
-Este es el primer repositorio de un proyecto de NLP en dos partes. Aquí nos centramos en el análisis exploratorio y el modelado clásico predictivo. Para ver el despliegle del modelo en una aplicación web interactiva, consulta la Parte 2.
+Este es el primer repositorio de un proyecto de NLP en dos partes. Aquí nos centramos en el análisis exploratorio y el modelado clásico predictivo. Para ver el despliegle de un modelo mas robusto para una aplicación web interactiva, consulta la Parte 2.
 
 | Proyecto NLP | [Parte 1: Análisis Exploratorio y Predictivo](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp) | [Parte 2: Modelo Robusto Bilingüe y Despliegue](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp-2) |
 | :--- | :--- | :--- |
