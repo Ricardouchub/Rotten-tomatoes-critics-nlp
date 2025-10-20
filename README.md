@@ -72,8 +72,8 @@ Antes del modelado, se realizó un proceso de limpieza y preparación:
 ## **4. Modelado y Evaluación**
 Se entrenaron y compararon dos modelos de clasificación para encontrar el de mejor rendimiento:
 
-1.  **Regresión Logística:** Un modelo lineal robusto y altamente interpretable.
-2.  **LightGBM:** Un modelo avanzado basado en árboles de decisión (Gradient Boosting).
+1.  **Regresión Logística:** Un modelo lineal y robusto.
+2.  **LightGBM:** Un modelo avanzado basado en decision trees (Gradient Boosting).
 
 #### **Resultados de la Evaluación**
 Tras la evaluación, se llegó a una de las primeras conclusiones interesantes del proyecto: el modelo de **Regresión Logística superó al más complejo LightGBM**, alcanzando una **precisión global del 80.67%**. Este modelo fue seleccionado para todos los análisis posteriores debido a su superior rendimiento y facilidad de interpretación.
