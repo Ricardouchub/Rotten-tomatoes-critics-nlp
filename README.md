@@ -36,7 +36,7 @@ Un análisis de datos de más de un millón de reseñas de cine para construir u
 4. [Modelado y Evaluación](#4-modelado-y-evaluación)
 5. [Hallazgos y Conclusiones Principales](#5-hallazgos-y-conclusiones-principales)
 6. [Herramientas](#6-herramientas)
-7. [Autor](#8-autor)
+7. [Autor](#7-autor)
 
 ---
 
