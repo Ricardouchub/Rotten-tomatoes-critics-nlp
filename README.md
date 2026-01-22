@@ -36,7 +36,8 @@ Un análisis de datos de más de un millón de reseñas de cine para construir u
 4. [Modelado y Evaluación](#4-modelado-y-evaluación)
 5. [Hallazgos y Conclusiones Principales](#5-hallazgos-y-conclusiones-principales)
 6. [Herramientas](#6-herramientas)
-7. [Autor](#7-autor)
+7. [Visualizaciones Destacadas](#7-visualizaciones-destacadas).
+8. [Autor](#8-autor)
 
 ---
 
@@ -106,16 +107,17 @@ El análisis profundo de los datos y del modelo entrenado reveló varios hallazg
 
 ---
 
-## **7. Autor**
-**Ricardo Urdaneta**
-
-[**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro/)
-
----
-
-## **Visualizaciones destacadas**
+## **7. Visualizaciones destacadas**
 <p align="center">
 <img width="573" height="586" alt="image" src="https://github.com/user-attachments/assets/458528f3-113c-488f-b89f-3898f894584b" />
   <img width="683" height="415" alt="image" src="https://github.com/user-attachments/assets/513c8cc2-d1aa-4d91-a852-a0cfd7a41c38" />
 
 </p>
+
+---
+
+## **8. Autor**
+**Ricardo Urdaneta**
+
+[**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro/)
+
